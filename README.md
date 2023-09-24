@@ -1,7 +1,6 @@
 <p align="center">
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+<a href=https://solved.ac/blu3fishez><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blu3fishez"></a>
 
 </p>
 
