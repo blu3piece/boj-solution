@@ -1,6 +1,6 @@
 <p align="center">
 
-<a href=https://solved.ac/blu3fishez><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blu3fishez"></a>
+<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blu3fishez">
 
 </p>
 
